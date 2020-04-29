@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6114185c-b2cb-4e85-abc8-98a987be56d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aDtttJVNMAdrf5vySwFKDd1YYh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Principal">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
+      <module name="ExemploArrayTarde" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal1" />
+      <module name="ExemploArrayTarde" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal2" />
+      <module name="ExemploArrayTarde" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrincipalPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrincipalPessoa" />
+      <module name="ExemploArrayTarde" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.PrincipalPessoa" />
+        <item itemvalue="Application.Principal2" />
+        <item itemvalue="Application.Principal1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6114185c-b2cb-4e85-abc8-98a987be56d6" name="Default Changelist" comment="" />
+      <created>1586282209806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586282209806</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="101" key="#com.intellij.ide.util.MemberChooser" timestamp="1586287080940">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="451" y="101" key="#com.intellij.ide.util.MemberChooser/0.23.1280.722@0.23.1280.722" timestamp="1586287080940" />
+    <state x="365" y="74" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1586282234577">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="365" y="74" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1280.722@0.23.1280.722" timestamp="1586282234577" />
+    <state x="102" y="123" width="1073" height="511" key="DiffContextDialog" timestamp="1586286716395">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="102" y="123" width="1073" height="511" key="DiffContextDialog/0.23.1280.722@0.23.1280.722" timestamp="1586286716395" />
+    <state x="516" y="432" key="FileChooserDialogImpl" timestamp="1586377109004">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="516" y="432" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1586377109004" />
+    <state width="1231" height="129" key="GridCell.Tab.0.bottom" timestamp="1586288206979">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1231" height="129" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1586288206979" />
+    <state width="1231" height="129" key="GridCell.Tab.0.center" timestamp="1586288206971">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1231" height="129" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1586288206971" />
+    <state width="1231" height="129" key="GridCell.Tab.0.left" timestamp="1586288206968">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1231" height="129" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1586288206968" />
+    <state width="1231" height="129" key="GridCell.Tab.0.right" timestamp="1586288206972">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1231" height="129" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1586288206972" />
+  </component>
+</project>
