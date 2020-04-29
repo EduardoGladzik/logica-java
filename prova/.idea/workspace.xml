@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33f1ca17-1500-4978-8125-b45102f46bc7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aJKYqYlEsJpwdfg5Vm4Ayjb6vs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../prova2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.mesTest">
+    <configuration name="Pricipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.Pricipal" />
+      <module name="prova" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in prova" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prova" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prova" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.mesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.mesTest" />
+        <item itemvalue="Application.Pricipal" />
+        <item itemvalue="JUnit.All in prova" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33f1ca17-1500-4978-8125-b45102f46bc7" name="Default Changelist" comment="" />
+      <created>1586448306320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586448306320</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="178" key="#File_and_Code_Templates" timestamp="1586453906176">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="872" y="178" key="#File_and_Code_Templates/0.0.2560.1040@0.0.2560.1040" timestamp="1586453906176" />
+    <state x="1725" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1586449217476">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1725" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1586449217476" />
+    <state x="1060" y="275" key="FileChooserDialogImpl" timestamp="1586454005844">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="275" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1586454005844" />
+    <state width="2517" height="281" key="GridCell.Tab.0.bottom" timestamp="1586459616425">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="281" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1586459616425" />
+    <state width="2517" height="281" key="GridCell.Tab.0.center" timestamp="1586459616424">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="281" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1586459616424" />
+    <state width="2517" height="281" key="GridCell.Tab.0.left" timestamp="1586459616424">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="281" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1586459616424" />
+    <state width="2517" height="281" key="GridCell.Tab.0.right" timestamp="1586459616425">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="281" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1586459616425" />
+    <state x="919" y="295" key="SettingsEditor" timestamp="1586449445893">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="919" y="295" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1586449445893" />
+    <state x="1691" y="226" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586448966311">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1691" y="226" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1586448966311" />
+    <state x="662" y="222" key="new project wizard" timestamp="1586449693903">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="662" y="222" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1586449693903" />
+  </component>
+</project>

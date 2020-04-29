@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c4c7362-ff2b-4f80-b234-c388168a732e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aJNN8yTSMVUKdn77vJHZ1r3Tzr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../prova3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CombustivelTest">
+    <configuration name="Pricipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.Pricipal" />
+      <module name="prova2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CombustivelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prova2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.CombustivelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CombustivelTest" />
+        <item itemvalue="Application.Pricipal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c4c7362-ff2b-4f80-b234-c388168a732e" name="Default Changelist" comment="" />
+      <created>1586449693937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586449693937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1725" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1586449909763">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1725" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1586449909763" />
+    <state x="1700" y="278" key="FileChooserDialogImpl" timestamp="1586454314901">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1700" y="278" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1586454314901" />
+    <state width="1234" height="281" key="GridCell.Tab.0.bottom" timestamp="1586459621055">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="281" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1586459621055" />
+    <state width="1234" height="281" key="GridCell.Tab.0.center" timestamp="1586459621055">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="281" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1586459621055" />
+    <state width="1234" height="281" key="GridCell.Tab.0.left" timestamp="1586459621055">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="281" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1586459621055" />
+    <state width="1234" height="281" key="GridCell.Tab.0.right" timestamp="1586459621055">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="281" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1586459621055" />
+    <state x="975" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586459746462">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="975" y="344" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1586459746462" />
+    <state x="1825" y="209" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586450921547">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1825" y="209" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1586450921547" />
+    <state x="1302" y="225" key="new project wizard" timestamp="1586459766272">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1302" y="225" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1586459766272" />
+  </component>
+</project>
